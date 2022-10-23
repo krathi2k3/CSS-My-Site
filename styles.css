@@ -1,0 +1,24 @@
+body{
+    margin:0;
+}
+h1{
+    margin: 0;
+}
+.top{
+    background-color: #E8F9FD;
+    padding: 20px;
+}
+.middle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.bottom{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.pro{
+    text-decoration: underline;
+}
